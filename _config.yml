@@ -1,0 +1,12 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'GAP Days'
+description:      'GAP developer meetings'
+url:              http://gapdays.de
+baseurl:          ''
