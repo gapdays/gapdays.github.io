@@ -17,7 +17,7 @@ title: Home
 #### What is GAP?
 
 [GAP](http://www.gap-system.org/) is a computer algebra system with a focus
-on computation group theory.
+on computational group theory.
 
 #### What are GAP Days?
 
