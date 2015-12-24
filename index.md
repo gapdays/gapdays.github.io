@@ -11,7 +11,7 @@ title: Home
 <li><a href="/gap-sage-days2016/">First Joint GAP-​SageMath Days</a>, January 18-22, 2016, University of St Andrews
 <li><a href="/gapdays2015-fall/">Third GAP Days</a>, School: Sep 14-18, 2015, Code sprint: Sep 19-23, 2015, NTNU Trondheim
 <li><a href="/gapdays2015-spring/">Second GAP Days</a>, March 16-20, 2015, RWTH Aachen University.
-<li><a href="http://gapdays2014.coxeter.de/">First GAP Days</a>, August 25-29, 2014, RWTH Aachen University.
+<li><a href="/gapdays2014/">First GAP Days</a>, August 25-29, 2014, RWTH Aachen University.
 </ol>
 
 #### What is GAP?
