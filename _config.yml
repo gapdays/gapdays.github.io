@@ -10,3 +10,5 @@ title:            'GAP Days'
 description:      'GAP developer meetings'
 url:              http://gapdays.de
 baseurl:          ''
+
+exclude: [ "LICENSE.hyde.md", "README.hyde.md" ]
