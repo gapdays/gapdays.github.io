@@ -8,6 +8,7 @@ title: Home
 ### Past, present and future GAP Days
 
 <ol reversed>
+<li><a href="/gap-jupyter-days2018/">Jupyter in GAP and other CAS</a>, June 4-8, 2018, University of St Andrews</li>
 <li><a href="/gapdays2017-fall/">GAP Days Fall 2017</a>, Workshop: August 30 - September 1, 2017; Code sprint: September 4-8, 2017, Uni Siegen</li>
 <li><a href="/gapdays2017-spring/">GAP Days Spring 2017</a>, Workshop: May 29 - June 2, 2017, RWTH Aachen University</li>
 <li><a href="/gap-sage-days2016/">First Joint GAP-SageMath Days</a>, January 18-22, 2016, University of St Andrews</li>
