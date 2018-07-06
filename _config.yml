@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            'GAP Days'
 description:      'GAP developer meetings'
-url:              http://gapdays.de
+url:              https://www.gapdays.de
 baseurl:          ''
 
 exclude: [ "LICENSE.hyde.md", "README.hyde.md" ]
