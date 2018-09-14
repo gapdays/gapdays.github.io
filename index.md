@@ -8,6 +8,7 @@ title: Home
 ### Past, present and future GAP Days
 
 <ol reversed>
+<li><a href="/gapdays2019-spring>GAP Days Spring 2019</a>, March 18th-22nd, 2019, Martin-Luther Universität Halle</li>
 <li><a href="/gapdays2018-fall/">GAP Days Fall 2018</a>, September 17th-21st, 2018, Uni Siegen</li>
 <li><a href="/gap-jupyter-days2018/">Jupyter in GAP and other CAS</a>, June 4-8, 2018, University of St Andrews</li>
 <li><a href="/gapdays2017-fall/">GAP Days Fall 2017</a>, Workshop: August 30 - September 1, 2017; Code sprint: September 4-8, 2017, Uni Siegen</li>
