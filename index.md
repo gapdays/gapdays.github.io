@@ -8,6 +8,7 @@ title: Home
 ### Past, present and future GAP Days
 
 <ol reversed>
+<li><a href="/gapdays2020-spring">GAP Days Spring 2020</a>, March 23rd-27th, 2020, University of St Andrews</li>
 <li><a href="https://opendreamkit.org/meetings/2019-04-02-GAPSingularMeeting/">GAP Days as part of the GAP Singular Meeting</a>, August 20th - August 23rd, 2019, PfalzAkademie, Lambrecht</li>
 <li><a href="/gapdays2019-spring/">GAP Days Spring 2019</a>, March 18th-22nd, 2019, Martin-Luther Universität Halle</li>
 <li><a href="/gapdays2018-fall/">GAP Days Fall 2018</a>, September 17th-21st, 2018, Uni Siegen</li>
