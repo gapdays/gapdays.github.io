@@ -8,6 +8,7 @@ title: Home
 ### Past, present and future GAP Days
 
 <ol reversed>
+<li><a href="/gapdays2022-summer">GAP Days Summer 2022</a>, October 17st-21th, 2022, RWTH Aachen University</li>
 <li><a href="/gapdays2022-winter">GAP Days Winter 2022</a>, February 21st-25th, 2022, Virtual/Remote/Home Office</li>
 <li><a href="/gapdays2021-spring">GAP Days "Spring" 2021</a>, February 15th-19th, 2021, Virtual/Remote/Home Office</li>
 <li><a href="/gapdays2020-spring">GAP Days Spring 2020</a>, March 23rd-27th, 2020, Virtual/Remote/Home Office</li>
