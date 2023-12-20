@@ -8,14 +8,14 @@ title: Home
 ### Past, present and future GAP Days
 
 <ol reversed>
-<li><a href="/gapdays2024-spring">GAP Days Spring 2024</a>, March 11th-15th, 2024, University of Kaiserslautern-Landau, Germany</li>
-<li><a href="/gapdays2022-summer">GAP Days Summer 2022</a>, October 17st-21th, 2022, RWTH Aachen University, Germany</li>
-<li><a href="/gapdays2022-winter">GAP Days Winter 2022</a>, February 21st-25th, 2022, Virtual/Remote/Home Office</li>
-<li><a href="/gapdays2021-spring">GAP Days "Spring" 2021</a>, February 15th-19th, 2021, Virtual/Remote/Home Office</li>
-<li><a href="/gapdays2020-spring">GAP Days Spring 2020</a>, March 23rd-27th, 2020, Virtual/Remote/Home Office</li>
-<li><a href="https://opendreamkit.org/meetings/2019-04-02-GAPSingularMeeting/">GAP Days as part of the GAP Singular Meeting</a>, August 20th - August 23rd, 2019, PfalzAkademie, Lambrecht, Germany</li>
-<li><a href="/gapdays2019-spring/">GAP Days Spring 2019</a>, March 18th-22nd, 2019, Martin-Luther Universität Halle, Germany</li>
-<li><a href="/gapdays2018-fall/">GAP Days Fall 2018</a>, September 17th-21st, 2018, University of Siegen, Germany</li>
+<li><a href="/gapdays2024-spring">GAP Days Spring 2024</a>, March 11-15, 2024, University of Kaiserslautern-Landau, Germany</li>
+<li><a href="/gapdays2022-summer">GAP Days Summer 2022</a>, October 17-21, 2022, RWTH Aachen University, Germany</li>
+<li><a href="/gapdays2022-winter">GAP Days Winter 2022</a>, February 21-25, 2022, Virtual/Remote/Home Office</li>
+<li><a href="/gapdays2021-spring">GAP Days "Spring" 2021</a>, February 15-19, 2021, Virtual/Remote/Home Office</li>
+<li><a href="/gapdays2020-spring">GAP Days Spring 2020</a>, March 23-27, 2020, Virtual/Remote/Home Office</li>
+<li><a href="https://opendreamkit.org/meetings/2019-04-02-GAPSingularMeeting/">GAP Days as part of the GAP Singular Meeting</a>, August 20-23, 2019, PfalzAkademie, Lambrecht, Germany</li>
+<li><a href="/gapdays2019-spring/">GAP Days Spring 2019</a>, March 18-22, 2019, Martin-Luther Universität Halle, Germany</li>
+<li><a href="/gapdays2018-fall/">GAP Days Fall 2018</a>, September 17-21, 2018, University of Siegen, Germany</li>
 <li><a href="/gap-jupyter-days2018/">Jupyter in GAP and other CAS</a>, June 4-8, 2018, University of St Andrews, Scotland</li>
 <li><a href="/gapdays2017-fall/">GAP Days Fall 2017</a>, Workshop: August 30 - September 1, 2017; Code sprint: September 4-8, 2017, University of Siegen, Germany</li>
 <li><a href="/gapdays2017-spring/">GAP Days Spring 2017</a>, Workshop: May 29 - June 2, 2017, RWTH Aachen University, Germany</li>
