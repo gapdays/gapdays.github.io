@@ -8,6 +8,7 @@ title: Home
 ### Past, present and future GAP Days
 
 <ol reversed>
+<li><a href="/gapdays2025-spring">GAP Days Spring 2025</a>, April 6-11, 2025, Vrije Universiteit Brussel, Belgium</li>
 <li><a href="/gapdays2024-summer">GAP Days Summer 2024</a>, August 26-30, 2024, University of St Andrews, Scotland</li>
 <li><a href="/gapdays2024-spring">GAP Days Spring 2024</a>, March 11-15, 2024, University of Kaiserslautern-Landau, Germany</li>
 <li><a href="/gapdays2022-summer">GAP Days Summer 2022</a>, October 17-21, 2022, RWTH Aachen University, Germany</li>
