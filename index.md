@@ -8,7 +8,7 @@ title: Home
 ### Past, present and future GAP Days
 
 <ol reversed>
-<li><a href="/gapdays2026-spring">GAP Days Spring 2026</a>, April 4-8, 2026, University of Porto, Portugal</li>
+<li><a href="/gapdays2026-spring">GAP Days Spring 2026</a>, May 4-8, 2026, University of Porto, Portugal</li>
 <li><a href="/gapdays2025-summer">GAP Days Summer 2025</a>, August 25-29, 2025, University of Primorska, Koper, Slovenia</li>
 <li><a href="/gapdays2025-spring">GAP Days Spring 2025</a>, April 7-11, 2025, Vrije Universiteit Brussel, Belgium</li>
 <li><a href="/gapdays2024-summer">GAP Days Summer 2024</a>, August 26-30, 2024, University of St Andrews, Scotland</li>
