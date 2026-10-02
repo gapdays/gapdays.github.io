@@ -8,6 +8,7 @@ title: Home
 ### Past, present and future GAP Days
 
 <ol reversed>
+<li><a href="/gapdays2027-spring">GAP Days Spring 2027</a>, April 5-9, 2027, University of St Andrews, Scotland</li>
 <li><a href="/gapdays2026-fall">GAP Days Fall 2026</a>, September 28 - October 2, 2026, RWTH Aachen University, Germany</li>
 <li><a href="/gapdays2026-spring">GAP Days Spring 2026</a>, May 4-8, 2026, University of Porto, Portugal</li>
 <li><a href="/gapdays2025-summer">GAP Days Summer 2025</a>, August 25-29, 2025, University of Primorska, Koper, Slovenia</li>
